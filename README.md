@@ -1,2 +1,2 @@
-# portfolio
-My personal portfolio
+# caqret / Portfolio
+Builder • Modeller • UI Designer • Animator
